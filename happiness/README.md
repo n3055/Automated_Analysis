@@ -9,9 +9,9 @@ This report provides an insightful analysis of happiness data across various cou
 
 ## Visualizations
 1. **Life Ladder vs. Log GDP per capita**: This scatter plot shows how GDP influences happiness.
-[](life_ladder_trend.png)
+![life_ladder_vs_gdp](life_ladder_vs_gdp.png)
 3. **Life Ladder Trends**: A line chart that tracks how happiness changes over the years for the top 5 countries.
-[life ladder trend](life_ladder_trend.png)
+![life ladder trend](life_ladder_trend.png)
 
 ## Conclusion
 Understanding the factors that contribute to happiness can help policymakers develop strategies for improving the quality of life.
