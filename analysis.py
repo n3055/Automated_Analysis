@@ -56,7 +56,7 @@ except Exception as e:
 
 # Step 2: Request Python code for the recommended analyses
 prompt_code = (
-    f"Based on the recommended analyses, provide Python code to perform the analysis on the dataset '{dataset}'. "
+    f"Based on the recommended analyses {analysis_recommendations}, provide Python code to perform the analysis on the dataset '{dataset}'. "
     "Remove outliers and clean the data before performing the analysis such that output is of high quality and insightful.\n"
     "The script should save the following outputs:\n"
     "1. A Markdown file (README.md) summarizing the results as a story in a unique way that isn't boring. It should be well-structured and readable.\n"
