@@ -6,14 +6,6 @@ This analysis delves into the fascinating world of books on Goodreads. We explor
 1. The distribution of average ratings shows a peak around the rating of 4.0, indicating that most readers tend to rate their books positively.
 2. The top 10 authors demonstrate consistently high average ratings, showcasing their popularity and the quality of their works.
 
-## Visualizations
-### Distribution of Average Ratings
-![Distribution of Average Ratings](average_rating_distribution.png)
-### Top 10 Authors by Average Rating
-![Top 10 Authors by Average Rating](top_authors_by_average_rating.png)
-
-# Goodreads Analysis Report
-
 ## 1. Distribution of Average Ratings
 This visualization shows the distribution of average ratings across all books. Most books tend to be rated highly, suggesting reader satisfaction.
 
